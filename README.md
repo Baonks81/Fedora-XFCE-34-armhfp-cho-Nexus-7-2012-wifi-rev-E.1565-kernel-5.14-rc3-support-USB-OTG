@@ -1,5 +1,4 @@
-# Fedora-XFCE-34-armhfp-cho-Nexus-7-2012-wifi-rev-E.1565-kernel-5.14-rc3-support-USB-OTG
-Linux on Nexus 7 2012
+# Fedora Minimal Rawhide 35 armhfp F2FS Nexus 7 2012 wifi rev E.1565 kernel 5.14-rc3 USB-OTG
 
 File này chỉ được làm cho vui trong mùa dịch cúm Tàu 08/2021, ngày mai sẽ lên openSUSE-Leap-armv7l-15.3 cho Nexus 7 2012
 
@@ -8,6 +7,14 @@ File này chỉ được làm cho vui trong mùa dịch cúm Tàu 08/2021, ngày
 Link download trên Google drive:
 
 
+
+Fedora Minimal Rawhide 35 armhfp f2fs rootfs
+
+https://drive.google.com/drive/folders/1XQXTxhghdTD4NHRdibYbzHBXwaINcCjv?usp=sharing
+
+
+
+Fedora XFCE4 34 armhfp
 
 https://drive.google.com/drive/folders/1LbffvuU2B2r6ydbaTxvK2KNX_MdLxrrn?usp=sharing
 
@@ -37,11 +44,7 @@ Do I have grouper or tilapia?
 
 
 
-
-
 TWRP (adb shell) $ grep androidboot.baseband=unknown /proc/cmdline && echo grouper || echo tilapia
-
-
 
 
 
@@ -228,7 +231,15 @@ NFC dùng được với neard
 
 
 
-Image Source: https://download.fedoraproject.org/pub/fedora/linux/releases/34/Spins/armhfp/images/
+Image Source:
+
+
+
+https://dl.fedoraproject.org/pub/fedora/linux/development/rawhide/Spins/armhfp/images/
+
+
+
+https://download.fedoraproject.org/pub/fedora/linux/releases/34/Spins/armhfp/images/
 
 
 
